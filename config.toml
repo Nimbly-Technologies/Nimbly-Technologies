@@ -1,0 +1,4 @@
+baseURL = "https://tech.nimbly.love/"
+languageCode = "en-us"
+title = "Nimbly Tech"
+theme = "etch"
